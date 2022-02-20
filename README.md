@@ -1,2 +1,7 @@
 # JMbomber
 Simple Mail Bomber writter in JAVA
+
+ REQUIREMENTS:
+1. CREATE A GMAIL ACCOUNT 
+2. ENABLE LESS SECURE APPS 
+3. RUN THE CODE
